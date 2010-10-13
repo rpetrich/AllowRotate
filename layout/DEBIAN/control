@@ -1,0 +1,10 @@
+Package: com.rpetrich.allowrotate
+Name: AllowRotate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Simple test to see how easy adding rotation to SpringBoard is
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depends: mobilesubstrate, firmware (>= 4.0)
+Section: Tweaks
+dev: rpetrich
